@@ -8,22 +8,23 @@ I'm a passionate computer and data science enthusiast currently honing my skills
 🌱 I’m currently learning data science to prepare for a career in this exciting field.\
 🚀 My goal is to build projects that make a real-world impact, like soccer player injury prediction models or other sports analytics projects.\
 🛠️ Tools & skills: Python, Golang, HTML, CSS, Excel, and more.\
+⚽ Hobbies: I am a huge fun of soccer and I usually watch European soccer leagues in my free time. I also play indoor soccer for fun.\
 📫 Feel free to reach out or connect! I’m always open to collaboration, learning, and sharing ideas.
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_hamid_rjb)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamidullah-rajabi)
+[![Instagram](readme_profile_logos/insta.png)](https://instagram.com/_hamid_rjb)
+[![LinkedIn](readme_profile_logos/linkedin.png)](https://linkedin.com/in/hamidullah-rajabi)
 
 ## 💻 Tech Stack
 
-![HTML5](html.png)
-![CSS3](css.png)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![HTML5](readme_profile_logos/html.png)
+![CSS3](readme_profile_logos/css.png)
+![JavaScript](readme_profile_logos/js.png)
+![Go](readme_profile_logos/go.png)
+![Python](readme_profile_logos/python.png)
+![MySQL](readme_profile_logos/sql.png)
+![GitHub](readme_profile_logos/github.png)
 
 ## ✍️ Random Dev Quote
 
